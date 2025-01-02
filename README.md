@@ -1,12 +1,22 @@
-# About me. 
+# Hi there, I'm Zachary DeBoer! 👋
+💻 Software Development student @ Bellevue University  
+🌟 Passionate about building innovative solutions with Java, Python, and React.  
+🎯 Open to internships, collaborative projects, and learning opportunities.
 
+## 🛠️ Skills
+- **Languages**: Java, Python, JavaScript
+- **Web Development**: React, Node.js, HTML, CSS
+- **Tools**: Git, GitHub, VS Code, IntelliJ IDEA
+- **Cloud**: AWS, Firebase
 
-**DeB0VI/DeB0VI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Featured Projects
+- [**E-Commerce App**]
+  A full-stack app with secure login, a shopping cart, and a MongoDB database.
+- [**Portfolio Website**] 
+  A responsive website to showcase my projects and skills, built with React.
+- [**Real-Time Chat App**]
+  A chat application using Python and WebSocket.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my degree in software development. 
-- 🌱 I’m currently learning How to develop software, as well as learn github
-- 🤔 I’m looking for help with being able to code and program 
-- ⚡ Fun fact: I like to read fantasy novels 
-
+## 📫 Let's Connect
+- [LinkedIn](www.linkedin.com/in/zd-softwaredev)
+- [Email](zachary.deboer@proton.me)
